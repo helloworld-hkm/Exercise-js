@@ -3,7 +3,7 @@
  
  dikerjakan oleh : Hakim Firman Febrian.
  
- **Note:program dari setiap jawaban Exercise saya masukkan ke dalam switch . jadi saat program dijalakan akan muncul pop up untuk memilih program sesuai nomornya. refresh halaman untuk menampilkan pilihan nomor program.**
+ **Note:program dari setiap jawaban Exercise saya masukkan ke dalam switch . jadi saat program dijalakan akan muncul pop up untuk memilih program sesuai nomornya. refresh halaman untuk menampilkan pilihan nomor program lagi.**
  ## Penjelasan Program
 1. menggunan for loop dengan kondisi yang harus dipenuhi i<=100 dimana i=1 dan setiap perulangan nilai i mendapatakan penambahan 1 .dimana hasil perulangan ditampilkan dalam html menggunakan perintah document.write
 2. menggunakan statment loop dimana saya membuat 2 variable yaitu nilai dan i. nilai digunakan untuk menampung nilai angka dan i digunakan untuk penomoran saat perulangan ditampilkan. dimana setiap perulangan variable nilai ditambah 2.
