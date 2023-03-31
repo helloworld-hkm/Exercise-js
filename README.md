@@ -3,7 +3,9 @@
  
  dikerjakan oleh : Hakim Firman Febrian.
  
- link tugas [disini](https://www.google.com)
+ link tugas [disini](https://tugas-hakimff.netlify.app/).
+ 
+ 
  **Note:program dari setiap jawaban Exercise saya masukkan ke dalam switch . jadi saat program dijalakan akan muncul pop up untuk memilih program sesuai nomornya. refresh halaman untuk menampilkan pilihan nomor program lagi.**
  ## Penjelasan Program
 1. menggunan for loop dengan kondisi yang harus dipenuhi i<=100 dimana i=1 dan setiap perulangan nilai i mendapatakan penambahan 1 .dimana hasil perulangan ditampilkan dalam html menggunakan perintah document.write
